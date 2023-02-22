@@ -1,5 +1,6 @@
 # DEV-DE-SISTEMAS-1
 Bem-vindo(a) à Wiki do projeto de Desenvolvimento de Sistemas I.
+
  
 Projeto: SOFTWARE Agil para empresas.
  
@@ -30,7 +31,9 @@ Descrição da Atividade: 
    - manter sempre em  bom funcionamento.
 
 6. Descreva quais recursos a equipe dispõe para este desenvolvimento:
+
     O projeto será dividido em 3 etapas: 
+
     - 1: etapa será montar uma equipe qualificada que consiga desenvolver o projeto.
     - 2: etapa será formar outra equipe para implementar.
     - 3: etapa será contratar pessoas capacitadas de explicar o funcionamento do sistema.
