@@ -11,20 +11,19 @@ E-mail: Matheuscosta2992@gmail.com -              
  
 
 1. O problema ou oportunidade percebida:
+    Perda de produtividade na equipe de vendas e na organização confusa e desatualizada de informações, descontrole financeiro e de estoque.
 
-    Perda de produtividade na equipe de vendas e na organização confusa e desatualizada de informações, descontrole financeiro e de estoque.
 2. A razão ou justificativa para esta demanda:
+   A razão para escolhermos o software de agilidade empresarial e por conta de passarmos esse problemas na nossa vida profissional, e ver o quanto um software com      esse objetivo poderia ser beneficiente para o melhor funcionamento da empresa.
 
-   A razão para escolhermos o software de agilidade empresarial e por conta de passarmos esse problemas na nossa vida profissional, e ver o quanto um software com      esse objetivo poderia ser beneficiente para o melhor funcionamento da empresa.
 3. A descrição sucinta do produto de software que será produzido:
-
-   O software produzido será destinado ao setor empresarial, terá um importante papel, na agilidade de processos que toda empresa está inserida, como 
+   O software produzido será destinado ao setor empresarial, terá um importante papel, na agilidade de processos que toda empresa está inserida, como 
     por exemplo o contato com o cliente via e-mail, e outros meios sociais, o software vai juntar todas solicitações abertas pelos clientes em uma só 
     plataforma, e deixando um tempo estimado para resposta do funcionário, se esse tempo for expirado o software respondera a solicitação do cliente 
     com respostas já pré selecionadas, outro importante papel vai ser sempre um aviso para que um funcionario responsável sempre faça uma manuentenção no sistema e     atualize os dados caso o sistema apresente falhas. 
-4. Identifique os clientes, usuários e demais envolvidos/impactados com o produto:
 
-    Esse projeto traria impacto positivo para diversos grupos de pessoas, o maior impactado seria o cliente, que teria sua dúvida sanada de maneira 
+4. Identifique os clientes, usuários e demais envolvidos/impactados com o produto:
+     Esse projeto traria impacto positivo para diversos grupos de pessoas, o maior impactado seria o cliente, que teria sua dúvida sanada de maneira 
     mais rápida e objetiva, ou pelo sistema ou pelo funcionário, no caso da empresa os funcionários conseguiriam trabalhar de forma mais objetiva com as informações     sempre atualizadas, e por fim um responsável pela manutenção do Software.
    
 5. Descreva, em linhas gerais, quais as principais etapas necessárias para construir este produto:
