@@ -47,6 +47,9 @@ E-mail: Matheuscosta2992@gmail.com -              
    com que sirva para empresa com a finalidade de simplificar tarefas que antes demandavam mais esforço e produção. Com este primeiro funcionamento o 
    segundo quesito de qualidade a ser avaliado será o índice de erro. Este software deve contém mínimas chances de erro para que não prejudique a 
    empresa e distorça os dados que vão ser armazenados.
+
+
+
  
 8. Avalie os riscos:
    Os riscos na implementação deste sistema empresarial serão riscos menores, porém complexos. Com este “software” empresarial funcionários não 
