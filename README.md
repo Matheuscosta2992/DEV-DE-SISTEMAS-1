@@ -37,6 +37,7 @@ Descrição da Atividade: 
     - 1: etapa será montar uma equipe qualificada que consiga desenvolver o projeto.
     - 2: etapa será formar outra equipe para implementar.
     - 3: etapa será contratar pessoas capacitadas de explicar o funcionamento do sistema.
+
  
 7. Identifique os principais critérios de qualidade para o produto:
    Dentre os principais critérios de qualidade envolvidos neste software empresarial, deve ser avaliado principalmente o seu funcionamento de maneira 
