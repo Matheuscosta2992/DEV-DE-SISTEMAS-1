@@ -9,7 +9,7 @@ TIA: 42103551 -
  
 E-mail: Matheuscosta2992@gmail.com -              
  
-Descrição da Atividade: 
+
 1. O problema ou oportunidade percebida:
     Perda de produtividade na equipe de vendas e na organização confusa e desatualizada de informações, descontrole financeiro e de estoque.
 2. A razão ou justificativa para esta demanda:
@@ -33,7 +33,6 @@ Descrição da Atividade: 
 6. Descreva quais recursos a equipe dispõe para este desenvolvimento:
 
     O projeto será dividido em 3 etapas: 
-
     - 1: etapa será montar uma equipe qualificada que consiga desenvolver o projeto.
     - 2: etapa será formar outra equipe para implementar.
     - 3: etapa será contratar pessoas capacitadas de explicar o funcionamento do sistema.
