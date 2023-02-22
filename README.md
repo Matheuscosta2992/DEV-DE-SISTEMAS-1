@@ -43,16 +43,16 @@ E-mail: Matheuscosta2992@gmail.com -              
 
  
 7. Identifique os principais critérios de qualidade para o produto:
-
-   Dentre os principais critérios de qualidade envolvidos neste software empresarial, deve ser avaliado principalmente o seu funcionamento de maneira 
+    Dentre os principais critérios de qualidade envolvidos neste software empresarial, deve ser avaliado principalmente o seu funcionamento de maneira 
    com que sirva para empresa com a finalidade de simplificar tarefas que antes demandavam mais esforço e produção. Com este primeiro funcionamento o 
    segundo quesito de qualidade a ser avaliado será o índice de erro. Este software deve contém mínimas chances de erro para que não prejudique a 
    empresa e distorça os dados que vão ser armazenados.
  
 8. Avalie os riscos:
-
-   Os riscos na implementação deste sistema empresarial serão riscos menores, porém complexos. Com este “software” empresarial funcionários não 
+   Os riscos na implementação deste sistema empresarial serão riscos menores, porém complexos. Com este “software” empresarial funcionários não 
    precisarão responder perguntas primárias, não terão que conferir estoque ou outras informações importantes de forma manual, pois o próprio sistema fará isso. Com    essas funcionálidades há grandes chances de clientes quererem uma resposta mais elaborada ou até mesmo o sistema dentro deste software não entender o assunto que    o cliente quer tratar e se desvincular da pergunta inicial do cliente, fazendo com que haja uma decepção com a empresa por parte do cliente.
+
+
     
  
     Canvas para resumir a demanda: 
