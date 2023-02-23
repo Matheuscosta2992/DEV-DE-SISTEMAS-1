@@ -4,10 +4,10 @@ Bem-vindo(a) à Wiki do projeto de Desenvolvimento de Sistemas I.
  
 Projeto: SOFTWARE Agil para empresas.
  
-Alunos:  Matheus Vieira Costa - 
-TIA: 42103551 - 
+Aluno:  Matheus Vieira Costa  
+TIA: 42103551  
  
-E-mail: Matheuscosta2992@gmail.com -              
+E-mail: Matheuscosta2992@gmail.com              
  
 
 1. O problema ou oportunidade percebida:
