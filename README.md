@@ -62,4 +62,11 @@ E-mail: Matheuscosta2992@gmail.com              
 
 Diagra de caso de uso:![Diagrama de caso de uso](https://user-images.githubusercontent.com/110911027/224557702-52edd247-b000-4410-b786-fae914f9a739.png)
 
+Diagrama de casos de uso do projeto:
+ 
+![Caso_de_Uso drawio (2)](https://user-images.githubusercontent.com/106284190/199089468-d57e231e-f39c-4c55-b93c-69b03a08cd30.png)
+Diagrama de Classe de Projeto:
+ 
+![sequencia_detalhado](https://user-images.githubusercontent.com/106284190/204622336-f2df51e7-995b-4c1f-9313-28a59041901a.png)
+
  
