@@ -60,7 +60,10 @@ E-mail: Matheuscosta2992@gmail.com              
  
     Canvas para resumir a demanda: ![2023-02-22 (5)](https://user-images.githubusercontent.com/110911027/220732473-d3bd51bf-4a0a-4810-9676-d7f9bed253a7.png)
 
-Diagra de caso de uso:![Diagrama de caso de uso]![diagrama de casos de uso img](https://user-images.githubusercontent.com/110911027/231505266-d442cb6c-aff5-45b5-be0e-f4ce340a4f34.png)
+Diagra de caso de uso:![diagrama de casos de uso img](https://user-images.githubusercontent.com/110911027/231505266-d442cb6c-aff5-45b5-be0e-f4ce340a4f34.png)
+
+Expecificações de caso de uso:![expecificações de casos de uso](https://user-images.githubusercontent.com/110911027/231509068-201791a2-1103-4e2a-8818-4d2cff6fd55e.png)
+
 
 
 Diagrama de Classe de Projeto:
